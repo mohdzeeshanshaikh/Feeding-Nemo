@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=hungryState(NemoFish)
+comment1.params=
+comment1.target=void\ eatGumball()
+comment2.params=
+comment2.target=void\ crash()
+comment3.params=
+comment3.target=void\ revive()
+numComments=4

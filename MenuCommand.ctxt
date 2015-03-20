@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=scr
+comment0.target=MenuCommand(Screen)
+comment1.params=
+comment1.target=void\ execute()
+comment2.params=target
+comment2.target=void\ setReceiver(IReceiver)
+numComments=3

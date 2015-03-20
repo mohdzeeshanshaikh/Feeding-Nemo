@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Button(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=name
+comment2.target=void\ createImages(java.lang.String)
+comment3.params=cmd
+comment3.target=void\ setCommand(ICommand)
+comment4.params=
+comment4.target=void\ invoke()
+numComments=5

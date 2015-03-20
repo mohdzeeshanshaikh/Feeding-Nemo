@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameScreen()
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=Gumballs\ getGumball()
+comment3.params=newGumball
+comment3.target=void\ setGumball(Gumballs)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ RandomThingMethodFish1()
+comment6.params=
+comment6.target=void\ RandomThingMethodFish2()
+comment7.params=
+comment7.target=void\ RandomGumballsOnScreen()
+numComments=8

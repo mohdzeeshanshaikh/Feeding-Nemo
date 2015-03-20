@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GumballCreator()
+comment1.params=color
+comment1.target=Gumballs\ makeGumballs(java.lang.String)
+numComments=2
