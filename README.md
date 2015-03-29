@@ -4,7 +4,7 @@
 ##The following design patterns were implemented in the game: 
 1. Factory 
 2. Observer 
-3.Command 
+3. Command 
 4. State 
 5. Chain of responsibility 
 
